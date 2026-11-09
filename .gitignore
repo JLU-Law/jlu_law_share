@@ -1,0 +1,6 @@
+_site/
+node_modules/
+.env*
+data/source/
+data/manual_review.json
+test-results/

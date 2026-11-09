@@ -1,0 +1,857 @@
+[
+  {
+    "courseId": "course-a23d189ac692",
+    "courseName": "法学导引",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071030"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-f83683f8dca1",
+    "courseName": "法律社会学",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071034"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-94734dd6a8b7",
+    "courseName": "立法理论与实务",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071035"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-a3293f35543b",
+    "courseName": "比较法总论",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071038"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-fdbc19a1bcd1",
+    "courseName": "西方法律思想史",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071039"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-fc43f1730c3c",
+    "courseName": "历史上的经典案例解读",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071041"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-6e4d37d0a800",
+    "courseName": "犯罪学",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071043"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-09f4c61196b4",
+    "courseName": "刑事辩护实务",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071045"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-183a40e871f9",
+    "courseName": "国际刑法",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071046"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-0d3a450702f2",
+    "courseName": "外国刑法",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071047"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-ac5d6560fb26",
+    "courseName": "电子商务法",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071058"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-53d88b22cbe2",
+    "courseName": "科学技术法",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071064"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-896aa763fcf6",
+    "courseName": "国际仲裁法",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071071"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-61fb0bc5e899",
+    "courseName": "国际公法专题II",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071075"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-2fc0a649ba55",
+    "courseName": "刑事法集成研修与实训",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071081"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-8e88730c32bf",
+    "courseName": "程序证据法律研修与实训",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071086"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-35a82591fabf",
+    "courseName": "中国法律思想史",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071090"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-fc045cd1db07",
+    "courseName": "中国土地法学",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071097"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-66eaf77bbafe",
+    "courseName": "公司治理前沿法律问题研究",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071099"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-8a7ff6b24b18",
+    "courseName": "人文通识",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071101"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-42f7ccc029ca",
+    "courseName": "基础学科通识",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071103"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-485d4cdecc01",
+    "courseName": "当代西方法哲学",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071110"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-287e35fac82b",
+    "courseName": "立法技术",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071115"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-add1e2eaae45",
+    "courseName": "法律原理：案例与实务",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071116"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-1b72d83e477e",
+    "courseName": "宪法与现代国家建构",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071130"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-ef5ef967fed0",
+    "courseName": "国际法专题讨论",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071134"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-a7ea2c0438ae",
+    "courseName": "国际法经典精读",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071135"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-72c9072c42bc",
+    "courseName": "海商法",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071144"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-0b21f4ae84fd",
+    "courseName": "法律解释与劳动法案例研习",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071153"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-86e25e7188a3",
+    "courseName": "金融法与财税法经典案例解读",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071159"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-583d178a92aa",
+    "courseName": "继承法",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071163"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-4c461ad92be4",
+    "courseName": "婚姻家庭法",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071164"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-6438fdd8a15a",
+    "courseName": "合同法分则",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071167"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-230b7f00f87c",
+    "courseName": "证据法学",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071172"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-c0a25d4b852f",
+    "courseName": "英美刑法专业文献导读",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071174"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-ff769abe9a49",
+    "courseName": "经济犯罪的理论与实务",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071176"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-9cee768a9058",
+    "courseName": "刑罚专论",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071181"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-5a76660df923",
+    "courseName": "习近平法治思想概论",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071200"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-a0b0d2e51ea9",
+    "courseName": "宪法学",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071202"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-d7cc7ddad2ce",
+    "courseName": "民法学II",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071205"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-7d87fc4c37af",
+    "courseName": "刑法学II",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071208"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-f6d461886bbb",
+    "courseName": "国际法学",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071209"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-ed85986a08f5",
+    "courseName": "刑事诉讼法学",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071212"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-9983301c42c0",
+    "courseName": "商法学",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071215"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-be8016c63fe5",
+    "courseName": "知识产权法学",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071216"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-955d6c943bcd",
+    "courseName": "法律职业伦理",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071217"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-2f94913c0efc",
+    "courseName": "数字法学原理",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071218"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-63d73a4f3d08",
+    "courseName": "中华法治文明概论",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22071219"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-87957a11153f",
+    "courseName": "法理学l",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072001"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-57e276f8786a",
+    "courseName": "法理学II",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072002"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-5370510383b0",
+    "courseName": "经济法学I",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072012"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-56cfae182ff6",
+    "courseName": "经济法学II",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072013"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-5931cc7eac2c",
+    "courseName": "商法学I",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072014"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-8e771d501bdc",
+    "courseName": "商法学II",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072015"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-793572f069e9",
+    "courseName": "知识产权法学",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072016"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-1f9d13257429",
+    "courseName": "民事诉讼法学",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072018"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-fcd67b9c56ff",
+    "courseName": "国际私法学",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072024"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-0deb3b8c8356",
+    "courseName": "环境法",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072025"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-289054de017b",
+    "courseName": "劳动与社会保障法",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072026"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-d4ee58734d2a",
+    "courseName": "法律职业伦理",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072027"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-95b8088a34d9",
+    "courseName": "证据法学",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072028"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-f50ba4c757af",
+    "courseName": "民法V",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072029"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-9b46a0844d1b",
+    "courseName": "民法学II",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072039"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-22d6012376aa",
+    "courseName": "刑法学II",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072042"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-d44bf2dbecda",
+    "courseName": "国际法学",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072043"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-b32be4e1f5d5",
+    "courseName": "刑事诉讼法学",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072046"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-2921219fa7dd",
+    "courseName": "商法学",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072049"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-8526cde664c7",
+    "courseName": "经济法学",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072050"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-b26cf6d084c9",
+    "courseName": "知识产权法学",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072051"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-7d04eeb57890",
+    "courseName": "宪法学",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072054"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-788b7377998a",
+    "courseName": "民法学II",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072057"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-e503878cb760",
+    "courseName": "刑法学II",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072060"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-ccf432dd9728",
+    "courseName": "国际法学",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072061"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-d8a455375c0e",
+    "courseName": "刑事诉讼法学",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072064"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-b81c1ca6e24f",
+    "courseName": "商法学",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072067"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-e7f526d2db80",
+    "courseName": "知识产权法学",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072068"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-37a7237d6729",
+    "courseName": "法律职业伦理",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072069"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-56dc1b850d18",
+    "courseName": "国际投资法",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072070"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-9138b82b1003",
+    "courseName": "国际人权法",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22072071"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-d16b718d9abc",
+    "courseName": "学年论文",
+    "department": "法学院",
+    "courseCodes": [
+      "ae22073001"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-e043d60b4e38",
+    "courseName": "习近平法治思想概论",
+    "department": "法学院",
+    "courseCodes": [
+      "af26071001"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-399bd787e62b",
+    "courseName": "习近平法治思想概论",
+    "department": "法学院",
+    "courseCodes": [
+      "af26071001-2"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-844706479ddf",
+    "courseName": "习近平法治思想概论",
+    "department": "法学院",
+    "courseCodes": [
+      "af26071001-3"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-33ac940698fa",
+    "courseName": "法理学",
+    "department": "法学院",
+    "courseCodes": [
+      "af26071002"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-1b265fb8e8c5",
+    "courseName": "法理学",
+    "department": "法学院",
+    "courseCodes": [
+      "af26071002-2"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-7b9875ba3533",
+    "courseName": "法理学",
+    "department": "法学院",
+    "courseCodes": [
+      "af26071002-3"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-fd2be59bc81e",
+    "courseName": "宪法学",
+    "department": "法学院",
+    "courseCodes": [
+      "af26071003"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-e6c41f76c280",
+    "courseName": "宪法学",
+    "department": "法学院",
+    "courseCodes": [
+      "af26071003-2"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-8c7235f4164c",
+    "courseName": "宪法学",
+    "department": "法学院",
+    "courseCodes": [
+      "af26071003-3"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-e0681edc88e8",
+    "courseName": "法学导引",
+    "department": "法学院",
+    "courseCodes": [
+      "af26071601"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-27732f686e73",
+    "courseName": "法律电影欣赏",
+    "department": "法学院",
+    "courseCodes": [
+      "gx30071002"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-5932526c1247",
+    "courseName": "控辩逻辑与质证艺术",
+    "department": "法学院",
+    "courseCodes": [
+      "ts01071001"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-bd1428de89a8",
+    "courseName": "中华法治文明",
+    "department": "法学院",
+    "courseCodes": [
+      "ts02071002"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-48e2cf7a2610",
+    "courseName": "当代中国法治通论",
+    "department": "法学院",
+    "courseCodes": [
+      "ts03071003"
+    ],
+    "identityStatus": "provisional"
+  },
+  {
+    "courseId": "course-d5c023181647",
+    "courseName": "社会生活中的法律与人",
+    "department": "法学院",
+    "courseCodes": [
+      "ts03071005"
+    ],
+    "identityStatus": "provisional"
+  }
+]

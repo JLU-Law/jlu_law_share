@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="由学生自发建设的法学学习资料共享计划。免费开放，自愿贡献，尊重原创。非吉林大学或法学院官方平台。">
+  <meta name="color-scheme" content="light">
+  <title>JLU Law Share · 法学学习资料共享</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='10' fill='%232459b8'/%3E%3Ctext x='32' y='43' text-anchor='middle' font-size='36' fill='white' font-family='Georgia'%3EL%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="./css/style.css">
+  <script type="module" src="./js/app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#library">跳至资料库</a>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="#top" aria-label="JLU Law Share 首页"><span class="brand-mark" aria-hidden="true">L<span>／</span>S</span><span>JLU Law Share<small>法学学习资料共享</small></span></a>
+      <nav aria-label="主导航"><a href="#library">资料库</a><a href="#course-directory">课程目录</a><a href="#about">关于项目</a><a class="nav-contribute" href="#contribute">投稿资料 <span aria-hidden="true">↗</span></a></nav>
+    </div>
+  </header>
+  <main id="top" class="container">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="eyebrow"><span class="status-dot"></span> 一个由学生发起的共享计划</div>
+      <h1 id="hero-title">让学习资料<span>自由流动</span></h1>
+      <p class="hero-description">由学生自发建设的法学学习资料共享计划。<br>让每一次整理，都成为下一位同学的起点。</p>
+      <div class="principles"><span>免费开放</span><span>自愿贡献</span><span>尊重原创</span></div>
+      <form id="search-form" role="search" class="search-form">
+        <label class="sr-only" for="search">搜索资料标题、课程名称、课程代码、教师或说明</label>
+        <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4.5 4.5"/></svg>
+        <input id="search" type="search" placeholder="搜索课程、代码、教师或资料关键词" autocomplete="off">
+        <button type="submit" class="button primary">搜索资料</button>
+      </form>
+      <p class="search-hint">课程 PPT、期末试题回忆版，以及值得分享的学习资料</p>
+    </section>
+
+    <section id="library" class="library" aria-labelledby="library-title">
+      <div class="section-heading"><div><p class="eyebrow">RESOURCE LIBRARY</p><h2 id="library-title">资料库</h2></div><span class="muted">所有资料，免费获取</span></div>
+      <form id="filters" class="filters" aria-label="筛选资料">
+        <div class="filter-row"><label>适用年级<select id="grade"><option value="">全部年级</option></select></label><span class="filter-chevron" aria-hidden="true">/</span><label>课程<select id="course"><option value="">全部课程</option></select></label><span class="filter-chevron" aria-hidden="true">/</span><label>授课教师<select id="teacher"><option value="">全部教师</option></select></label></div>
+        <div class="filter-bottom"><label>资料类型<select id="type"><option value="">全部类型</option><option value="ppt">课程PPT</option><option value="exam-recall">期末试题回忆版</option><option value="other">其他</option></select></label><label>学生班型<select id="studentTrack"><option value="">全部班型</option><option value="ordinary">普通班</option><option value="foreign">涉外班</option><option value="lvzhenyu">吕振羽班</option><option value="unknown">未注明</option></select></label><label>资料学期<select id="resource-semester"><option value="">全部学期</option></select></label><button id="reset" class="text-button" type="button">重置筛选 <span aria-hidden="true">↺</span></button></div>
+      </form>
+      <div class="results-heading"><p id="result-count" role="status" aria-live="polite">正在加载资料…</p><span class="muted">按课程查找，按需取用</span></div>
+      <div id="results" aria-busy="true"></div>
+      <noscript><p class="state">请启用 JavaScript 以加载、搜索和筛选资料，并查看项目投稿邮箱。</p></noscript>
+      <p class="library-note">回忆版试题为非官方内容，可能存在遗漏或表述偏差，请结合课程内容核对。</p>
+    </section>
+
+    <section id="course-directory" class="library course-directory" aria-labelledby="directory-title">
+      <details id="course-details"><summary><span id="directory-title">课程目录</span><span class="muted">查看开课记录与授课教师</span></summary>
+      <p id="course-summary" class="library-note"></p>
+      <p class="library-note">每张卡片对应一条开课记录；同名或同代码的记录保留各自排课信息。开课学期与学生入学年级不同。推断的授课模式尚待核实，学生班型与授课模式分别记录。</p>
+      <form id="course-filters" class="filters" aria-label="筛选开课记录">
+        <label for="course-search">搜索课程名称、代码或教师</label><input id="course-search" type="search" placeholder="课程名称、课程代码、教师姓名">
+        <div class="filter-row"><label>开课学年学期<select id="offering-semester"><option value="">全部学期</option></select></label><label>课程名称<select id="offering-course"><option value="">全部课程</option></select></label><label>授课教师<select id="offering-teacher"><option value="">全部教师</option></select></label></div>
+        <div class="filter-bottom"><label>授课模式<select id="teachingMode"><option value="">全部模式</option><option value="large">大班授课（待核实）</option><option value="small">小班授课（待核实）</option><option value="unknown">待核实（模式未知）</option></select></label><button id="course-reset" type="button" class="text-button">重置课程筛选 ↺</button></div>
+      </form><div class="results-heading"><p id="course-count" role="status" aria-live="polite">正在加载课程…</p></div><div id="course-results" aria-busy="true"></div>
+      </details>
+    </section>
+
+    <section id="contribute" class="contribution" aria-labelledby="contribute-title">
+      <div><p class="eyebrow">SHARE WHAT YOU KNOW</p><h2 id="contribute-title">有资料愿意分享？</h2><p>欢迎分享允许公开传播的课程PPT、期末试题回忆版及其他学习资料。投稿可以匿名，也可以自愿署名，所有资料经过审核后免费开放。</p><div class="contribution-steps"><span>01　邮件投稿</span><span>02　人工审核</span><span>03　免费共享</span></div></div>
+      <div class="email-panel"><span class="field-caption">项目投稿邮箱</span><p id="project-email">PROJECT_EMAIL（待配置）</p><div class="email-actions"><button id="copy-email" class="button" type="button" disabled>复制邮箱</button><a id="submit-email" class="button primary" aria-disabled="true">发送邮件 <span aria-hidden="true">↗</span></a></div><p class="small">请在邮件客户端自行添加附件。</p><p id="copy-status" class="small" role="status" aria-live="polite"></p></div>
+      <p class="privacy-note">投稿默认匿名公开。邮件服务商和项目管理员可能看到发件邮箱地址；如需降低公开身份关联，请留意邮件账户和文件元数据中的个人信息。</p>
+    </section>
+
+    <section id="about" class="about" aria-labelledby="about-title"><div><p class="eyebrow">ABOUT THE PROJECT</p><h2 id="about-title">共享有边界，<br>知识有回响。</h2><p class="muted">面向吉林大学法学院本科生<br>学生自发 · 非官方 · 非商业</p></div><div class="about-content"><article><h3>一个学生自发的公益项目</h3><p>本项目由学生自发建设，非吉林大学或法学院官方平台。我们希望建立免费、持续维护的学习资料共享渠道，不涉及商业交易。</p></article><article><h3>尊重每一份资料的分享权限</h3><p>仅收录经确认允许分享的课程资料，以及投稿者有权提供的原创内容。教师允许课堂使用或拷贝，不当然意味着允许向公众开放传播。明确禁止传播的课件、未经授权的商业教材电子版、付费笔记及其他第三方作品不予收录。试题回忆版还需遵守学校考试资料管理要求。</p></article><article><h3>一起维护准确、友好的资料库</h3><p>发现链接失效、资料错误或版权问题？权利人可通过项目邮箱申请更正或下架。</p><a id="feedback-email" class="inline-link" aria-disabled="true">版权与资料纠错反馈 <span aria-hidden="true">↗</span></a></article></div></section>
+  </main>
+  <footer class="container footer"><span>JLU Law Share</span><span>让分享成为一种习惯。</span><a href="#top">返回顶部 ↑</a></footer>
+</body>
+</html>
